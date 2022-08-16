@@ -1,4 +1,10 @@
-# MatPlotLib-Homework
-In this homework assignment, I have generated data, figures, and tables to help with a study about 249 mice identified with SCC tumor growth that were treated with a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. 
-I prepared the data, generated summary statistics, created bar charts, created pie charts, created a box plot, created line and scatter plots, and calculated correlation and regression for the data. 
-I drew 3 conclusions at the very end based off of the data, figures, tables, and all of the charts that I created.
+# The Power of Plots
+Given access to data from a recent study comparing the performance of Pymaceuticals' drug Capomulin and other treatment regimens to look at tumor growth on mice, I generated tables and figures needed for a report of the study. 
+
+# Methods Used
+Prepare Data, Summarize Statistics, Create Visualizations, Analyze Results
+
+
+# Technologies
+Matplotlib
+
